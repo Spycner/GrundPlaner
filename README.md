@@ -1,0 +1,2 @@
+# GrundPlaner
+Ein benutzerfreundlicher Stundenplanersteller
